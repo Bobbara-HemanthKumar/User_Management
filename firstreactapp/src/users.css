@@ -1,0 +1,19 @@
+.tutor{
+    border-Radius:'10px';
+    background-Color:"lightblue";
+    color:"blue";
+}
+.tiles{
+    width:200px;
+    height:200px;
+    /* box-Shadow:0px 0px 10px 0px black; */
+    margin:30px;
+    border-style: outset;
+    border-Radius:10px;
+    transition: .5s;
+    
+}
+.tiles:hover{
+    padding-left: 10px;
+    
+}

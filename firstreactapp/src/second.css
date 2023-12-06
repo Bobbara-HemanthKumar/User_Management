@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+#title{
+	margin-right: 20px;
+	font-size: 25px;
+	font-weight:bold;
+	align-items: center;
+	
+}
+#in3,#in4,#in5,#in6{
+width: 30%;
+margin: 8px 0;
+padding: 7px 10px;
+display: inline-block;
+border:1px solid #ccc;
+box-sizing: border-box;
+border-radius: 5px;
+}
+input[type=radio]{
+width: 30px;
+margin: 8px 0;
+padding: 2px 5px;
+border:auto;
+
+}
+
+.button{
+background-color:#4CAF50;
+width: 20%;
+padding: 9px 5px;
+margin:0 0 0 200px;
+cursor:pointer;
+border:none;
+color:#ffffff;
+
+border-radius: 10px;
+
+}
+ 
+.button:hover{
+opacity:0.8;
+}
+#fn,#ln,#mn,#em,#pn,#db,#gen,#qf{
+font-family:'Lato', sans-serif;
+color: black;
+font-weight:bold;
+margin:0 0 0 100px
+}
+#qf{
+	margin: 0 0 0 120px;
+}
+#em{
+	margin: 0 0 0 120px;
+}
+
+.for{
+	background-color: #9ca39c;
+	width:40%;
+	height: 450Px;
+	margin:40px 0 0 500px;
+	border-radius: 10px;
+}
+#reg{
+	align-items: center;
+}
+#in5{
+	margin: 0 0 0 20px;
+}
+#in6{
+	margin: 0 0 0 5px;
+}
+#in7{
+	margin: 0 0 0 30px;
+}
+#in8{
+	margin: 0 0 0 50px;
+}
